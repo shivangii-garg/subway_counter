@@ -1,0 +1,16 @@
+body {
+    background-image:url("https://images.unsplash.com/photo-1554147090-e1221a04a025?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+        background-size: cover; 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#increment-btn{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+#save-btn{
+    background-color: blueviolet;
+    color: aliceblue;
+}
